@@ -1,0 +1,6 @@
+[submodule "theme/github.com/wowchemy/wowchemy-hugo-modules"]
+	path = theme/github.com/wowchemy/wowchemy-hugo-modules
+	url = https://github.com/HugoBlox/hugo-blox-builder.git
+[submodule "theme/starter-academic"]
+	path = theme/starter-academic
+	url = https://github.com/martin-danelljan/starter-academic.git

@@ -71,5 +71,5 @@ I love designing systems that are light yet powerful, not over engineered, distr
 
 <center> 
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "upload/resume.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i>  Download my CV
 </center> 

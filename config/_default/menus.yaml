@@ -26,5 +26,5 @@ main:
   #   url: teaching/
   #   weight: 40
   - name: CV
-    url: "uppload/resume.pdf"
+    url: "upload/resume.pdf"
     weight: 40
